@@ -1,0 +1,11 @@
+arxiv==4.0.1
+pandas==3.0.6
+numpy==2.5.4
+gensim==4.4.0
+spacy==3.8.16
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+pyLDAvis==3.4.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+seaborn==0.13.2
+jupyter==1.1.1
